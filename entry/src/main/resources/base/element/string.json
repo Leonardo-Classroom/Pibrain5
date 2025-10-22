@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "圆周率记忆应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "帮助用户记忆圆周率的应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Pi脑"
+    },
+    {
+      "name": "app_name",
+      "value": "Pi脑"
+    },
+    {
+      "name": "browse_pi",
+      "value": "浏览圆周率"
+    },
+    {
+      "name": "learn_pi",
+      "value": "学习圆周率"
+    },
+    {
+      "name": "test_pi",
+      "value": "测试圆周率"
+    },
+    {
+      "name": "decimal_point_after",
+      "value": "小数点后"
+    },
+    {
+      "name": "to",
+      "value": "-"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "page",
+      "value": "页"
+    },
+    {
+      "name": "total_pages",
+      "value": "共%s页"
+    },
+    {
+      "name": "current_page",
+      "value": "第%s页"
+    },
+    {
+      "name": "jump_to_page",
+      "value": "跳转到页"
+    },
+    {
+      "name": "jump_to_position",
+      "value": "跳转到位数"
+    },
+    {
+      "name": "enter_page_number",
+      "value": "请输入页码"
+    },
+    {
+      "name": "enter_position",
+      "value": "请输入小数点后第几位"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "invalid_input",
+      "value": "输入无效"
+    },
+    {
+      "name": "page_out_of_range",
+      "value": "页码超出范围"
+    },
+    {
+      "name": "position_out_of_range",
+      "value": "位数超出范围"
+    }
+  ]
+}
