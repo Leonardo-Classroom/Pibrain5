@@ -2,6 +2,7 @@
   "src": [
     "pages/Index",
     "pages/BrowsePage",
-    "pages/LearnPage"
+    "pages/LearnPage",
+    "pages/TestPage"
   ]
 }
